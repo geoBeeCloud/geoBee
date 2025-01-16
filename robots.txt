@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://geobeecloud.github.io/geoBee/sitemap.xml
