@@ -3,12 +3,32 @@
     <title>geoBeev2</title>
     <link href="https://geobeecloud.github.io/geoBee/feed.xml" rel="self" />
     <link href="https://geobeecloud.github.io/geoBee" />
-    <updated>2025-01-31T15:49:32+01:00</updated>
+    <updated>2025-01-31T15:54:44+01:00</updated>
     <author>
         <name>mjm</name>
     </author>
     <id>https://geobeecloud.github.io/geoBee</id>
 
+    <entry>
+        <title>Services and Costs</title>
+        <author>
+            <name>mjm</name>
+        </author>
+        <link href="https://geobeecloud.github.io/geoBee/services-and-costs.html"/>
+        <id>https://geobeecloud.github.io/geoBee/services-and-costs.html</id>
+
+        <updated>2025-01-31T15:54:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Coming soon
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Coming soon</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>about geoBee </title>
         <author>
@@ -60,27 +80,34 @@
 <li>Host </li>
 <li>Deliver </li>
 </ul>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_18_28-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge.png" data-size="492x457"><img loading="lazy" src="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_18_28-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge-thumbnail.png" alt="" width="492" height="457"></a>
-<figcaption>1. geoBee schedules the time window for the capture of the site</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_18_48-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge.png" data-size="494x448"><img loading="lazy" src="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_18_48-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge-thumbnail.png" alt="" width="494" height="448"></a>
-<figcaption>2. geoBee reaches the site at the determined time</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_19_01-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge.png" data-size="499x443"><img loading="lazy" src="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_19_01-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge-thumbnail.png" alt="" width="499" height="443"></a>
-<figcaption>3. geoBee captures aerial photos and other information about the site</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_19_08-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge.png" data-size="504x448"><img loading="lazy" src="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_19_08-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge-thumbnail.png" alt="" width="504" height="448"></a>
-<figcaption>4. geoBee extracts information from the captured data and processes the mode</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_19_20-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge.png" data-size="398x345"><img loading="lazy" src="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_19_20-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge-thumbnail.png" alt="" width="398" height="345"></a>
-<figcaption>5. geoBee hosts the models and data online and delivers them your browser</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_30_48-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge.png" data-size="815x711"><img loading="lazy" src="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_30_48-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge-thumbnail.png" alt="" width="768" height="670"></a>
-<figcaption>6. You can view, inspect, measure and analyse your models and data, anywhere you are</figcaption>
-</figure>
-</div></div>
-<p> </p>
+<p><strong>geoBee End-to-End Photogrammetry Services</strong></p>
+<table style="border-collapse: collapse; width: 100.001%; height: 144.575px;" border="1">
+<tbody>
+<tr style="height: 48.1918px;">
+<td style="width: 33.3027%; height: 48.1918px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">1. geoBee schedules the time window for the capture of the site</p>
+</td>
+<td style="width: 33.3027%; height: 48.1918px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">2. geoBee reaches the site at the determined time</p>
+</td>
+<td style="width: 33.3041%; height: 48.1918px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">3. geoBee captures aerial photos and other information about the site</p>
+</td>
+</tr>
+<tr style="height: 48.1918px;">
+<td style="width: 33.3027%; height: 48.1918px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">4. geoBee extracts information from the captured data and processes the mode</p>
+</td>
+<td style="width: 33.3027%; height: 48.1918px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">5. geoBee hosts the models and data online and delivers them your browser</p>
+</td>
+<td style="width: 33.3041%; height: 48.1918px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">6. You can view, inspect, measure and analyse your models and data, anywhere you are</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>See the detailed information about <a href="https://geobeecloud.github.io/geoBee/services-and-costs.html">services and costs</a> </p>
             ]]>
         </content>
     </entry>
