@@ -11,21 +11,6 @@
     },
     "items": [
         {
-            "id": "https://geobeecloud.github.io/geoBee/2-4.html",
-            "url": "https://geobeecloud.github.io/geoBee/2-4.html",
-            "title": "about geoBee ",
-            "summary": "geoBee offers end-to-end photogrammetry services to customers in Europe and beyond. geoBee's&hellip;",
-            "content_html": "<h2 class=\"align-center\"> </h2>\n<p>geoBee offers end-to-end photogrammetry <a href=\"https://geobeecloud.github.io/geoBee/2-3.html\">services </a>to customers in Europe and beyond. geoBee's mission is to deliver useful <a href=\"https://geobeecloud.github.io/geoBee/2-2.html\">models </a>and <a href=\"https://geobeecloud.github.io/geoBee/2.html\">data </a>for real-world locations.</p>",
-            "image": "https://geobeecloud.github.io/geoBee/media/posts/12/2025-01-30-21_00_33-geoBee-infographics.vsdx-and-18-more-pages-Profil-2-Microsoft-Edge.png",
-            "author": {
-                "name": "mjm"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-01-17T14:59:18+01:00",
-            "date_modified": "2025-01-31T17:04:07+01:00"
-        },
-        {
             "id": "https://geobeecloud.github.io/geoBee/2-3.html",
             "url": "https://geobeecloud.github.io/geoBee/2-3.html",
             "title": "geoBee Services",

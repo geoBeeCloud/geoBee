@@ -10,30 +10,6 @@
     <id>https://geobeecloud.github.io/geoBee</id>
 
     <entry>
-        <title>about geoBee </title>
-        <author>
-            <name>mjm</name>
-        </author>
-        <link href="https://geobeecloud.github.io/geoBee/2-4.html"/>
-        <id>https://geobeecloud.github.io/geoBee/2-4.html</id>
-        <media:content url="https://geobeecloud.github.io/geoBee/media/posts/12/2025-01-30-21_00_33-geoBee-infographics.vsdx-and-18-more-pages-Profil-2-Microsoft-Edge.png" medium="image" />
-
-        <updated>2025-01-17T14:59:18+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://geobeecloud.github.io/geoBee/media/posts/12/2025-01-30-21_00_33-geoBee-infographics.vsdx-and-18-more-pages-Profil-2-Microsoft-Edge.png" alt="" />
-                    geoBee offers end-to-end photogrammetry services to customers in Europe and beyond. geoBee's&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://geobeecloud.github.io/geoBee/media/posts/12/2025-01-30-21_00_33-geoBee-infographics.vsdx-and-18-more-pages-Profil-2-Microsoft-Edge.png" class="type:primaryImage" alt="" /></p>
-                <h2 class="align-center"> </h2>
-<p>geoBee offers end-to-end photogrammetry <a href="https://geobeecloud.github.io/geoBee/2-3.html">services </a>to customers in Europe and beyond. geoBee's mission is to deliver useful <a href="https://geobeecloud.github.io/geoBee/2-2.html">models </a>and <a href="https://geobeecloud.github.io/geoBee/2.html">data </a>for real-world locations.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>geoBee Services</title>
         <author>
             <name>mjm</name>
