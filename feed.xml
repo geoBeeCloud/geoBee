@@ -3,7 +3,7 @@
     <title>geoBeev2</title>
     <link href="https://geobeecloud.github.io/geoBee/feed.xml" rel="self" />
     <link href="https://geobeecloud.github.io/geoBee" />
-    <updated>2025-01-31T15:48:55+01:00</updated>
+    <updated>2025-01-31T15:49:32+01:00</updated>
     <author>
         <name>mjm</name>
     </author>
@@ -59,7 +59,7 @@
 <li>Process </li>
 <li>Host </li>
 <li>Deliver </li>
-<li>
+</ul>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_18_28-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge.png" data-size="492x457"><img loading="lazy" src="https://geobeecloud.github.io/geoBee/media/posts/11/gallery/2025-01-31-15_18_28-geoBee-infographics.vsdx-and-26-more-pages-geoBee-2025-Microsoft-Edge-thumbnail.png" alt="" width="492" height="457"></a>
 <figcaption>1. geoBee schedules the time window for the capture of the site</figcaption>
@@ -80,8 +80,7 @@
 <figcaption>6. You can view, inspect, measure and analyse your models and data, anywhere you are</figcaption>
 </figure>
 </div></div>
-</li>
-</ul>
+<p> </p>
             ]]>
         </content>
     </entry>
