@@ -3,7 +3,7 @@
     <title>geoBeev2</title>
     <link href="https://geobeecloud.github.io/geoBee/feed.xml" rel="self" />
     <link href="https://geobeecloud.github.io/geoBee" />
-    <updated>2025-01-31T15:54:44+01:00</updated>
+    <updated>2025-01-31T15:58:07+01:00</updated>
     <author>
         <name>mjm</name>
     </author>
@@ -61,29 +61,25 @@
 <li>Deliver </li>
 </ul>
 <p><strong>geoBee End-to-End Photogrammetry Services</strong></p>
-<table style="border-collapse: collapse; width: 100.001%; height: 144.575px;" border="1">
+<table style="border-collapse: collapse; width: 100.001%;" border="1">
 <tbody>
-<tr style="height: 48.1918px;">
-<td style="width: 33.3027%; height: 48.1918px;">
-<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">1. geoBee schedules the time window for the capture of the site</p>
-</td>
-<td style="width: 33.3027%; height: 48.1918px;">
-<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">2. geoBee reaches the site at the determined time</p>
-</td>
-<td style="width: 33.3041%; height: 48.1918px;">
-<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">3. geoBee captures aerial photos and other information about the site</p>
-</td>
+<tr>
+<td style="width: 99.9097%;">1. geoBee schedules the time window for the capture of the site</td>
 </tr>
-<tr style="height: 48.1918px;">
-<td style="width: 33.3027%; height: 48.1918px;">
-<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">4. geoBee extracts information from the captured data and processes the mode</p>
-</td>
-<td style="width: 33.3027%; height: 48.1918px;">
-<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">5. geoBee hosts the models and data online and delivers them your browser</p>
-</td>
-<td style="width: 33.3041%; height: 48.1918px;">
-<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">6. You can view, inspect, measure and analyse your models and data, anywhere you are</p>
-</td>
+<tr>
+<td style="width: 99.9097%;">2. geoBee reaches the site at the determined time</td>
+</tr>
+<tr>
+<td style="width: 99.9097%;">3. geoBee captures aerial photos and other information about the site</td>
+</tr>
+<tr>
+<td style="width: 99.9097%;">4. geoBee extracts information from the captured data and processes the mode</td>
+</tr>
+<tr>
+<td style="width: 99.9097%;">5. geoBee hosts the models and data online and delivers them your browser</td>
+</tr>
+<tr>
+<td style="width: 99.9097%;">6. You can view, inspect, measure and analyse your models and data, anywhere you are</td>
 </tr>
 </tbody>
 </table>
