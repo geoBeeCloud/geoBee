@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>geoBeev2</title>
+    <title>geoBee</title>
     <link href="https://geobeecloud.github.io/geoBee/feed.xml" rel="self" />
     <link href="https://geobeecloud.github.io/geoBee" />
     <updated>2025-01-31T15:58:07+01:00</updated>
