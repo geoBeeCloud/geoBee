@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://geobeecloud.github.io/geoBee/services-and-costs.html",
-            "url": "https://geobeecloud.github.io/geoBee/services-and-costs.html",
-            "title": "Services and Costs",
-            "summary": "Coming soon",
-            "content_html": "<p>Coming soon</p>",
-            "author": {
-                "name": "mjm"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-01-31T15:54:25+01:00",
-            "date_modified": "2025-01-31T15:54:25+01:00"
-        },
-        {
             "id": "https://geobeecloud.github.io/geoBee/2-4.html",
             "url": "https://geobeecloud.github.io/geoBee/2-4.html",
             "title": "about geoBee ",

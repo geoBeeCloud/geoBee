@@ -10,26 +10,6 @@
     <id>https://geobeecloud.github.io/geoBee</id>
 
     <entry>
-        <title>Services and Costs</title>
-        <author>
-            <name>mjm</name>
-        </author>
-        <link href="https://geobeecloud.github.io/geoBee/services-and-costs.html"/>
-        <id>https://geobeecloud.github.io/geoBee/services-and-costs.html</id>
-
-        <updated>2025-01-31T15:54:25+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Coming soon
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Coming soon</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>about geoBee </title>
         <author>
             <name>mjm</name>
