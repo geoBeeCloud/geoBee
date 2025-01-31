@@ -3,7 +3,7 @@
     <title>geoBeev2</title>
     <link href="https://geobeecloud.github.io/geoBee/feed.xml" rel="self" />
     <link href="https://geobeecloud.github.io/geoBee" />
-    <updated>2025-01-30T23:28:49+01:00</updated>
+    <updated>2025-01-31T13:54:26+01:00</updated>
     <author>
         <name>mjm</name>
     </author>
@@ -101,7 +101,8 @@
 </figure>
 <figure class="post__image"><img loading="lazy"  src="https://geobeecloud.github.io/geoBee/media/posts/10/2024-10-03-02_54_15-Dionysos-Village-Custom-geoHive.png" alt="" width="1307" height="408" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://geobeecloud.github.io/geoBee/media/posts/10/responsive/2024-10-03-02_54_15-Dionysos-Village-Custom-geoHive-xs.png 300w ,https://geobeecloud.github.io/geoBee/media/posts/10/responsive/2024-10-03-02_54_15-Dionysos-Village-Custom-geoHive-sm.png 480w ,https://geobeecloud.github.io/geoBee/media/posts/10/responsive/2024-10-03-02_54_15-Dionysos-Village-Custom-geoHive-md.png 768w ,https://geobeecloud.github.io/geoBee/media/posts/10/responsive/2024-10-03-02_54_15-Dionysos-Village-Custom-geoHive-lg.png 1024w"><figcaption>Analyse your site using elevation, categorisation and other features</figcaption></figure>
 <figure class="post__image"><img loading="lazy"  src="https://geobeecloud.github.io/geoBee/media/posts/10/2025-01-30-23_23_03-Resort-geoBee-and-18-more-pages-Profil-2-Microsoft-Edge.png" alt="" width="2510" height="1189" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://geobeecloud.github.io/geoBee/media/posts/10/responsive/2025-01-30-23_23_03-Resort-geoBee-and-18-more-pages-Profil-2-Microsoft-Edge-xs.png 300w ,https://geobeecloud.github.io/geoBee/media/posts/10/responsive/2025-01-30-23_23_03-Resort-geoBee-and-18-more-pages-Profil-2-Microsoft-Edge-sm.png 480w ,https://geobeecloud.github.io/geoBee/media/posts/10/responsive/2025-01-30-23_23_03-Resort-geoBee-and-18-more-pages-Profil-2-Microsoft-Edge-md.png 768w ,https://geobeecloud.github.io/geoBee/media/posts/10/responsive/2025-01-30-23_23_03-Resort-geoBee-and-18-more-pages-Profil-2-Microsoft-Edge-lg.png 1024w"><figcaption>Access your model and data in the browser, anywhere you are  </figcaption></figure>
-<p> </p>
+<figure class="post__video"><video loading="lazy" width="700" height="350" controls="controls" data-mce-fragment="1">
+<source src="https://s3.eu-central-1.amazonaws.com/geobee.cloud/recording+(22).webm" type="video/webm" /></video></figure>
             ]]>
         </content>
     </entry>
