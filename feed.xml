@@ -3,7 +3,7 @@
     <title>geoBeev2</title>
     <link href="https://geobeecloud.github.io/geoBee/feed.xml" rel="self" />
     <link href="https://geobeecloud.github.io/geoBee" />
-    <updated>2025-01-31T15:31:23+01:00</updated>
+    <updated>2025-01-31T15:43:09+01:00</updated>
     <author>
         <name>mjm</name>
     </author>
@@ -153,13 +153,89 @@
             <summary>
                 <![CDATA[
                         <img src="https://geobeecloud.github.io/geoBee/media/posts/4/2025-01-30-21_01_07-geoBee-infographics.vsdx-and-18-more-pages-Profil-2-Microsoft-Edge.png" alt="" />
-                    Accessibility | Compatibility | Safety
+                    All geoBee models and data are: Category File Formats 3D Point Clouds&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://geobeecloud.github.io/geoBee/media/posts/4/2025-01-30-21_01_07-geoBee-infographics.vsdx-and-18-more-pages-Profil-2-Microsoft-Edge.png" class="type:primaryImage" alt="" /></p>
-                <p>Accessibility | Compatibility | Safety  </p>
+                <p>All geoBee models and data are:</p>
+<ul>
+<li>accessible online in any browser,</li>
+<li>stored safely in Frankfurt, Germany,</li>
+<li>widely compatible, open-source formats:</li>
+</ul>
+<div style="direction: ltr;">
+<table style="direction: ltr; border-collapse: collapse; border: 1pt solid #a3a3a3; width: 100.001%; height: 271.226px;" title="" border="1" summary="" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 33.9033px;">
+<td style="vertical-align: top; width: 48.6715%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">Category</span></p>
+</td>
+<td style="vertical-align: top; width: 51.2233%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">File Formats</span></p>
+</td>
+</tr>
+<tr style="height: 33.9033px;">
+<td style="vertical-align: top; width: 48.6715%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">3D Point Clouds</span></p>
+</td>
+<td style="vertical-align: top; width: 51.2233%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">.las, .laz, .entwine</p>
+</td>
+</tr>
+<tr style="height: 33.9033px;">
+<td style="vertical-align: top; width: 48.6715%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">3D Models</span></p>
+</td>
+<td style="vertical-align: top; width: 51.2233%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">.obj</p>
+</td>
+</tr>
+<tr style="height: 33.9033px;">
+<td style="vertical-align: top; width: 48.6715%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">2D Orthophotos</span></p>
+</td>
+<td style="vertical-align: top; width: 51.2233%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">.tif, .png, .jpg</p>
+</td>
+</tr>
+<tr style="height: 33.9033px;">
+<td style="vertical-align: top; width: 48.6715%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">Textured Models</span></p>
+</td>
+<td style="vertical-align: top; width: 51.2233%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">.png, .jpg, .mtl</p>
+</td>
+</tr>
+<tr style="height: 33.9033px;">
+<td style="vertical-align: top; width: 48.6715%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">Terrain &amp; Surface Models</span></p>
+</td>
+<td style="vertical-align: top; width: 51.2233%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">.tiff</p>
+</td>
+</tr>
+<tr style="height: 33.9033px;">
+<td style="vertical-align: top; width: 48.6715%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">Georeferencing</span></p>
+</td>
+<td style="vertical-align: top; width: 51.2233%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">.txt, .gcp, .prj, .wkt</p>
+</td>
+</tr>
+<tr style="height: 33.9033px;">
+<td style="vertical-align: top; width: 48.6715%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;"><span style="font-weight: bold;">HD Photos</span></p>
+</td>
+<td style="vertical-align: top; width: 51.2233%; padding: 4pt; border: 1pt solid #a3a3a3; height: 33.9033px;">
+<p style="margin: 0in; font-family: 'Sans Serif Collection'; font-size: 11.0pt;">.jpg</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>  </p>
             ]]>
         </content>
     </entry>
